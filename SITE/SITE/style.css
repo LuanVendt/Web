@@ -1,0 +1,72 @@
+header{
+    background-color:#ad6526; 
+    color:#ffffff;
+    border-radius: 15px;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul li{
+    margin-right: 15px;
+    color:#FFF;
+    background-color: #593122;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+section{
+    width: 80%;
+    margin: auto;
+    background-color: #DFE7F2;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+video{
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+    border: 5px solid brown
+}
+
+img{
+    width: 30%;
+    margin: 20px;
+    border-radius: 10px;
+    border: 5px solid brown;
+    margin: auto;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+li a:visited{
+    color: rgb(136, 17, 93);
+}
+
+li a:hover{
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background: url(https://images.pexels.com/photos/1506836/pexels-photo-1506836.png?cs=srgb&dl=pexels-thanhhoa-tran-1506836.jpg&fm=jpg)
+}
